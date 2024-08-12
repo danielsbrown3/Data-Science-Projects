@@ -12,11 +12,10 @@ Roadblocks to cleaning the yfianance data
 
 Mutli-Indexed Dataframe
 
-|   Date     | Adj Close (AAPL)   | Adj Close (MSFT)  | Adj Close (VOO)   |
-|            | Open (AAPL)        | Open (MSFT)       | Open (VOO)        |
-|            | High (AAPL)        | High (MSFT)       | High (VOO)        |
-|            | Low (AAPL)         | Low (MSFT)        | Low (VOO)         |
-|            | Volume (AAPL)      | Volume (MSFT)     | Volume (VOO)      |
+|   Date     | Adj Close (AAPL)\  Open (AAPL)    | Adj Close (MSFT) Open (MSFT) | Adj Close (VOO) Open (VOO)   |
+|             High (AAPL)         High (MSFT)       | High (VOO)        |
+|             Low (AAPL)          Low (MSFT)        | Low (VOO)         |
+|             Volume (AAPL)      Volume (MSFT)     | Volume (VOO)      |
 |------------|--------------------|-------------------|-------------------|
 | 2023-08-10 | 177.029846         | 320.423401        | 458.8300          |
 | 2023-08-11 | 177.089615         | 318.518341        | 291.7900          |
