@@ -14,7 +14,10 @@ Mutli-Indexed Dataframe
 
 
 Reset Index Dataframe
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg)">
+    <img alt="Reset Index Dataframe" src="[Reset Index Dataframe](https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg)">
+</picture>
 
 
 
