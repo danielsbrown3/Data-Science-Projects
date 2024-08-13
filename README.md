@@ -13,7 +13,7 @@ Roadblocks to cleaning the yfianance data
 Mutli-Indexed Dataframe
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Original_DF.jpg">
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Original_DF.jpg">
 </picture>
 
@@ -29,7 +29,7 @@ Reset Index Dataframe
 Flattened Dataframe
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Flattened_DF.jpg">
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Flattened_DF.jpg">
 </picture>
 
@@ -37,8 +37,8 @@ Flattened Dataframe
 Melted Dataframe
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
-    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Melted_DF.jpg">
+    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Melted_DF.jpg">
 </picture>
 
 
@@ -46,7 +46,7 @@ Melted Dataframe
 Split Dataframe
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Split_DF.jpg">
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Split_DF.jpg">
 </picture>
 
@@ -55,7 +55,7 @@ Split Dataframe
 Pivotted Dataframe
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Pivotted_DF.jpg">
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Pivotted_DF.jpg">
 </picture>
 
