@@ -67,9 +67,9 @@ Cleaning the data was difficult, but I learned a lot about manipulating datafram
 
 ### Modern Portfoil Theory
 
-    Calculate the expected returns and volatility for each stock.
-    Generate a series of random portfolios to identify the efficient frontier.
-    Optimize the portfolio to maximize the Sharpe ratio, which is a measure of risk-adjusted return.
+1. Calculate the expected returns and volatility for each stock.
+2. Generate a series of random portfolios to identify the efficient frontier.
+3. Optimize the portfolio to maximize the Sharpe ratio, which is a measure of risk-adjusted return.
     
 ### Visualizing the data to provide insights
 <picture>
@@ -81,3 +81,8 @@ Cleaning the data was difficult, but I learned a lot about manipulating datafram
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/main/Index_Portfolio.jpg">
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/main/Index_Portfolio.jpg">
 </picture>
+
+
+### Inspiration and Sources
+Inspiration for this project 
+https://thecleverprogrammer.com/2024/07/01/stock-market-portfolio-optimization-with-python/ 
