@@ -31,8 +31,6 @@ Cleaning the data was difficult, but I learned a lot about manipulating datafram
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
 </picture>
 
-
-
 #### Flattened Dataframe
 
 <picture>
@@ -74,13 +72,4 @@ Cleaning the data was difficult, but I learned a lot about manipulating datafram
     Optimize the portfolio to maximize the Sharpe ratio, which is a measure of risk-adjusted return.
     
 ### Visualizing the data to provide insights
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Top_Market_Cap_Portfolio.jpg">
-    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Top_Market_Cap_Portfolio.jpg">
-</picture>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Index_Portfolio.jpg">
-    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Index_Portfolio.jpg">
-</picture>
+test
