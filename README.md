@@ -12,8 +12,13 @@ Roadblocks to cleaning the yfianance data
 
 Mutli-Indexed Dataframe
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Original_DF.jpg">
+</picture>
 
 Reset Index Dataframe
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
     <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
@@ -23,58 +28,36 @@ Reset Index Dataframe
 
 Flattened Dataframe
 
-+------------+------------+------------+------------+
-|   Date     | AAPL_Open  | MSFT_Open  | VOO_Open   |
-|            | AAPL_High  | MSFT_High  | VOO_High   |
-|            | AAPL_Low   | MSFT_Low   | VOO_Low    |
-|            | AAPL_Volume| MSFT_Volume| VOO_Volume |
-+------------+------------+------------+------------+
-| 2023-08-10 | 177.029846 | 320.423401 | 458.8300   |
-| 2023-08-11 | 177.089615 | 318.518341 | 291.7900   |
-+------------+------------+------------+------------+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Flattened_DF.jpg">
+</picture>
 
 
 Melted Dataframe
 
-+------------+--------------------+--------+
-|   Date     | Attribute_Ticker    |  Value |
-+------------+--------------------+--------+
-| 2023-08-10 | AAPL_Open           | 177.03 |
-| 2023-08-10 | MSFT_Open           | 320.42 |
-| 2023-08-10 | VOO_Open            | 458.83 |
-| 2023-08-10 | AAPL_High           | 177.09 |
-| ...        | ...                 | ...    |
-+------------+--------------------+--------+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+</picture>
 
 
 
 Split Dataframe
 
-+------------+---------+---------+--------+
-|   Date     | Ticker  | Attribute | Value |
-+------------+---------+---------+--------+
-| 2023-08-10 | AAPL    | Open    | 177.03 |
-| 2023-08-10 | MSFT    | Open    | 320.42 |
-| 2023-08-10 | VOO     | Open    | 458.83 |
-| 2023-08-10 | AAPL    | High    | 177.09 |
-| ...        | ...     | ...     | ...    |
-+------------+---------+---------+--------+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Split_DF.jpg">
+</picture>
 
 
 
 Pivotted Dataframe
 
-
-+------------+---------+---------+---------+---------+---------+
-|   Date     | Ticker  |  Open   |  High   |  Low    | Volume  |
-+------------+---------+---------+---------+---------+---------+
-| 2023-08-10 | AAPL    | 177.03  | 177.09  | 176.50  | 54686900|
-| 2023-08-10 | MSFT    | 320.42  | 321.50  | 319.00  | 20113700|
-| 2023-08-10 | VOO     | 458.83  | 460.50  | 457.00  | 4588300 |
-| ...        | ...     | ...     | ...     | ...     | ...     |
-+------------+---------+---------+---------+---------+---------+
-
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Reset_DF.jpg">
+    <img alt="Reset Index Dataframe" src="https://github.com/danielsbrown3/Pictures/blob/440544d94cbb2d7b2289f347860febcfcadd0c25/Pivotted_DF.jpg">
+</picture>
 
 
 Modern Portfoil Theory
