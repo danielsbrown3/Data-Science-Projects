@@ -83,6 +83,7 @@ Cleaning the data was difficult, but I learned a lot about manipulating datafram
 </picture>
 
 
-### Inspiration and Sources
-Inspiration for this project 
+### Sources
+https://www.investopedia.com/terms/s/sharperatio.asp
+https://www.investopedia.com/terms/m/modernportfoliotheory.asp 
 https://thecleverprogrammer.com/2024/07/01/stock-market-portfolio-optimization-with-python/ 
